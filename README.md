@@ -1,7 +1,5 @@
 # XSSight
 
-# XSSight
-
 XSSight is an XSS Scanner and Payload Injector.
 
 ## Usages
