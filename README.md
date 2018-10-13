@@ -1,6 +1,6 @@
 # XSSight
 
-XSSight is an XSS Scanner and Payload Injector.
+XSSight is an XSS Scanner and Payload Injector for uncecuring hosts "http".
 
 ## Usages
 
