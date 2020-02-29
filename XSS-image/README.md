@@ -18,11 +18,13 @@ https://xss-game.appspot.com/level1
 http://testphp.vulnweb.com/
 ```
 # find POST GET or input and exploit him
+
 - - example:
-```source
+```html
 <form action="" method="GET">
   <input id="query" name="query" value="Enter query here..." onfocus="this.value=''">
   <input id="button" type="submit" value="Search">
 </form>
 ```
+
 - - MOre: https://owasp.org/www-community/xss-filter-evasion-cheatsheet
