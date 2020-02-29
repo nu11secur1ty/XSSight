@@ -9,7 +9,7 @@
 # Image XSS using the JavaScript directive
 
 ```js
-<scrip src="https://raw.githubusercontent.com/nu11secur1ty/XSSight/master/XSS-image/image/kostaakatil.webp"></script>
+<img src="https://raw.githubusercontent.com/nu11secur1ty/XSSight/master/XSS-image/image/kostaakatil.webp">
 ```
 
 # Test 
