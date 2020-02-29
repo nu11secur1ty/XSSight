@@ -12,7 +12,9 @@
 <img+src="https://raw.githubusercontent.com/nu11secur1ty/XSSight/master/XSS-image/image/kostaakatil.webp">
 ```
 
-# Test 
+# Test 1
+***The point of view***: **find POST, GET or INPUT and exploit them**
+
 ```url
 https://xss-game.appspot.com/level1
 ```
@@ -169,7 +171,7 @@ This was a great game to play with. After all I must say the levels were not tha
 ```
 http://testphp.vulnweb.com/
 ```
-# find POST GET or input and exploit him
+# find POST, GET or INPUT and exploit them
 
 - - example:
 ```html
