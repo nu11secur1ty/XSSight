@@ -1,6 +1,6 @@
 # Alert
 ```js
-<script>alrt("Hello");</script>
+<script>alert("Hello");</script>
 ```
 # Image
 ```js
