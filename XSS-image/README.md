@@ -15,6 +15,7 @@
 # Test 
 ```url
 https://xss-game.appspot.com/level1
+http://testphp.vulnweb.com/
 ```
 
 - - MOre: https://owasp.org/www-community/xss-filter-evasion-cheatsheet
