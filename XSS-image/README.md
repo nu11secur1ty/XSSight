@@ -11,3 +11,8 @@
 ```js
 <IMG SRC="javascript:alert('XSS');">
 ```
+
+# Test 
+```url
+https://xss-game.appspot.com/level1
+```
