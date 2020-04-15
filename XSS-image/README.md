@@ -39,7 +39,7 @@ Since the `script` won't work you'll have to think of another tags to trigger Ja
 
 ------------------------------
 
-<img src="http://inexist.ent" onerror="javascript:alert(Hello, nu11secur1ty is here! Please fix this stupid problem!)"/>
+<img src="http://inexist.ent" onerror="javascript:alert(111)"/>
 ```
 --------------------------------------------------------------------
 - - Level 3
