@@ -1,6 +1,7 @@
 # Alert
 ```js
 <script>alert("nu11secur1ty_is_here");</script>
+
 <script>alert("Hello");</script>
 ```
 # Image Hidden
