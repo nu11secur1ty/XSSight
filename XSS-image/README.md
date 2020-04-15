@@ -32,6 +32,8 @@ This is the most obvious and easiest one. Just insert following code and you're 
 Since the `script` won't work you'll have to think of another tags to trigger JavaScript code execution. The first thing which came in mind was to use `img` tags along with the `onerror` attributes. Here you go:
 ```js
 <img src="http://inexist.ent" onerror="javascript:alert(1)"/>
+
+<img src="http://inexist.ent" onerror="javascript:alert(Hello, nu11secur1ty is here! Please fix this stupid problem!)"/>
 ```
 --------------------------------------------------------------------
 - - Level 3
