@@ -1,4 +1,4 @@
-# Alerts
+# Alerts and checks
 ```js
 </span><img src=1 onerror=alert(1) /><span>
 
