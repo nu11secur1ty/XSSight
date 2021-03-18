@@ -1,5 +1,7 @@
-# Alert
+# Alerts
 ```js
+</span><img src=1 onerror=alert(1) /><span>
+
 <script>alert("nu11secur1ty_is_here");</script>
 
 <script>alert("Hello");</script>
