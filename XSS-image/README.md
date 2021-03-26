@@ -22,6 +22,9 @@
 <script>function a() { document.write("<img src='https://media.giphy.com/media/y4E6VumnBbIfm/giphy.gif'></img>"); }; window.onload = a; alert("A Hidden scripted image, warning you are vulnerable!");</script>
 ```
 # Image
+```js
+<form action="#" method="post"><label for="imgURL">image URL:</label><input type="url" id="imgURL"/><label for="pageURL">page URL:</label><input type="url" id="pageURL"/><button id="imgAdd">add image</button></form>
+```
 
 ```js
 <img+src="https://raw.githubusercontent.com/nu11secur1ty/XSSight/master/XSS-image/image/kostaakatil.webp">
