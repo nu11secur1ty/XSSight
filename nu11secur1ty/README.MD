@@ -15,3 +15,7 @@ nu11secur1ty<script>alert(document.cookie)</script>
 ```
 <form action="#" method="post"><label for="imgURL">image URL:</label><input type="url" id="imgURL"/><label for="pageURL">page URL:</label><input type="url" id="pageURL"/><button id="imgAdd">add image</button></form>
 ```
+## Error check
+```
+</span><img src=1 onerror=alert(1) /><span>
+```
