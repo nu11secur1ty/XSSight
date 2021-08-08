@@ -1,4 +1,4 @@
-## DOM
+## DOM & STORED
 ```
 <script>alert(document.domain)</script>
 ```
