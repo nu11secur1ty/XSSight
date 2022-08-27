@@ -1,3 +1,8 @@
+### WARNING: This page is only for education, every malicious purpose from the users that are using it, will be punished with law rules!
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
 # XSSight
 ![](https://github.com/nu11secur1ty/XSSight/blob/master/screen_test1/Screenshot%202020-02-29%2017:10:17.png)
 
