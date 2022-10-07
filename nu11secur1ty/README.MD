@@ -52,6 +52,12 @@ nu11secur1ty<script>alert(document.cookie)</script>
 </a>
 ```
 
+- 0.5.3 - Stupid Reflected
+```
+<a href="https://pornhub.com/" target="_blank" rel="noopener nofollow ugc">
+<img src="https://cdn5-capriofiles.netdna-ssl.com/wp-content/uploads/2017/07/IMG_0068.gif&rs=1" style="border:1px solid black;max-width:100%;" alt="Photo of Byron Bay, one of Australia's best beaches!">
+</a>
+```
 
 ## without error report + link to malicious URL
 
