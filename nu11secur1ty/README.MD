@@ -45,7 +45,7 @@ nu11secur1ty<script>alert(document.cookie)</script>
 </a>
 ```
 
-- 0.5-1 - Stupid Reflected
+- 0.5.1 - Stupid Reflected
 ```
 <a href="https://pornhub.com/" target="_blank" rel="noopener nofollow ugc">
 <img src="https://raw.githubusercontent.com/nu11secur1ty/XSSight/master/nu11secur1ty/images/IMG_0068.gif?token=GHSAT0AAAAAABXWGSKOH7MBFLEKF4M6Y3YCYYKADTQ&rs=1" style="border:1px solid black;max-width:100%;" alt="Photo of Byron Bay, one of Australia's best beaches!">
