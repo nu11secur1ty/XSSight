@@ -7,7 +7,7 @@ alert(Date()); // display current date
 alert()
 confirm() 
 prompt()
-
+```
 ## window object
 ```
 window.alert()
