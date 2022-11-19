@@ -15,7 +15,7 @@ window.confirm()
 window.prompt()
 ```
 ## Prompt and Print
-```
+```js
 <script>
 function myFunction() {
   let person = prompt("Please enter your name", "Chuskopek Pechkov");
