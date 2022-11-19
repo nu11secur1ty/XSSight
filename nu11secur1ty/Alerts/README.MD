@@ -1,6 +1,6 @@
 ## Date
 ```
-alert(Date()); // display current date
+alert(Date()); 
 ```
 ## List
 ```
