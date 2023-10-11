@@ -1,4 +1,4 @@
-```html
+```HTML
 <!--        Author : nu11secur1ty @2023 -->
 
 "-prompt(8)-"
