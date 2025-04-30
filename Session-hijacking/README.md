@@ -1,6 +1,6 @@
 # PHP Cookie Stealer
 
-![](/docs/session-hijacking.png)
+![](docs/session-hijacking.png)
 
 This project is a simple PHP script used to demonstrate how an attacker can steal cookies. It captures the victim's cookie, IP address, user agent, and geographical details, and then logs this information.
 
