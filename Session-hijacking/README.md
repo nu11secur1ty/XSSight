@@ -8,7 +8,7 @@ This script is for educational and demonstration purposes only. Improper use of 
 
 ## Prerequisites
 
-- PHP 5.6 or higher
+- PHP 8.x or higher
 - An HTTP server like Apache or Nginx
 
 ## Setup
