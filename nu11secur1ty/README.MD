@@ -94,6 +94,15 @@ nu11secur1ty<script>alert(document.cookie)</script>
 </a>
 ```
 
+- 0.5.4 - Stupid Reflected blow 0ut
+- - Trmp
+
+```
+<a href="https://www.pornhub.com" target="_blank">
+	<img src="https://media1.tenor.com/m/sLjUbG5BVikAAAAd/trump-dance-trump-2024.gif" alt="STUPID"width="900" height="450">
+</a>
+```
+
 - 1.4.0 - size 10%, Stupid Reflected
 ```
 <a href="https://pornhub.com/" target="_blank" rel="noopener nofollow ugc">
