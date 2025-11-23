@@ -98,7 +98,7 @@ nu11secur1ty<script>alert(document.cookie)</script>
 - - Trmp
 
 ```
-<a href="https://www.pornhub.com" target="_blank">
+<a href="https://www.youtube.com/watch?v=Q9pX-pEAFT4" target="_blank">
 	<img src="https://media1.tenor.com/m/sLjUbG5BVikAAAAd/trump-dance-trump-2024.gif" alt="STUPID"width="900" height="450">
 </a>
 ```
