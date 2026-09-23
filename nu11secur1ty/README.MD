@@ -84,7 +84,7 @@ nu11secur1ty<script>alert(document.cookie)</script>
 
 ```
 <a href="https://www.pornhub.com" target="_blank">
-	<img src="https://el.phncdn.com/gif/45467111.gif" alt="STUPID"width="900" height="450">
+	<img src="https://kl.phncdn.com/gif/36487211.gif?hdnea=st=1790154685~exp=1790161885~hdl=-1~hmac=8c0b1ccfe70bcfdabad91f0e0b75eecf1ded277e" alt="STUPID"width="900" height="450">
 </a>
 ```
 
