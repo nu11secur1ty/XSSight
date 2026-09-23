@@ -84,7 +84,7 @@ nu11secur1ty<script>alert(document.cookie)</script>
 
 ```
 <a href="https://www.pornhub.com" target="_blank">
-	<img src="https://kl.phncdn.com/gif/36487211.gif?hdnea=st=1790154685~exp=1790161885~hdl=-1~hmac=8c0b1ccfe70bcfdabad91f0e0b75eecf1ded277e" alt="STUPID"width="900" height="450">
+	<img src="https://i.postimg.cc/KYfmr43y/41397181.gif" alt="STUPID"width="900" height="450">
 </a>
 ```
 
@@ -92,13 +92,6 @@ nu11secur1ty<script>alert(document.cookie)</script>
 ```
 <a href="https://www.pornhub.com" target="_blank">
 	<img src="https://i.postimg.cc/x1Kf8696/41662011.gif" alt="STUPID"width="900" height="450">
-</a>
-```
-
-- v40vk@t@01
-```
-<a href="https://www.pornhub.com/view_video.php?viewkey=ph61f4241e1d586" target="_blank" rel="noopener nofollow ugc">
-<img src="https://dl.phncdn.com/gif/41165761.gif??token=GHSAT0AAAAAABXWGSKOH7MBFLEKF4M6Y3YCYYKADTQ&rs=1" style="border:1px solid black;max-width:100%;" alt="We are in maintenance, please visit this web page!">
 </a>
 ```
 
