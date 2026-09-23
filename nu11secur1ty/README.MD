@@ -87,11 +87,6 @@ nu11secur1ty<script>alert(document.cookie)</script>
 	<img src="https://kl.phncdn.com/gif/36487211.gif?hdnea=st=1790154685~exp=1790161885~hdl=-1~hmac=8c0b1ccfe70bcfdabad91f0e0b75eecf1ded277e" alt="STUPID"width="900" height="450">
 </a>
 ```
-- extr@
-```
-<a href="https://www.pornhub.com" target="_blank">
-	<img src="https://el2.phncdn.com/gif/52155222.gif?validfrom=1790147348&validto=1790161748&rate=1200k&burst=1433600k&ipa=1&hash=fD%2BNSjeg99hdoK%2BQkdKolMoVy8U%3D" alt="STUPID"width="900" height="450">
-```
 
 - V_40vk@ta
 ```
