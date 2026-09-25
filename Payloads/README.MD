@@ -7,7 +7,6 @@
 <!--        GitHub : https://github.com/ismailtasdelen/ -->
 <!--       Twitter : https://twitter.com/ismailtsdln -->
 <!--        Medium : https://medium.com/@ismailtasdelen -->
-
 "-prompt(8)-"
 '-prompt(8)-'
 ";a=prompt,a()//
