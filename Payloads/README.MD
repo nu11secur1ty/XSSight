@@ -1,5 +1,3 @@
-## Payloads
-
 ```xss
 <!-- Project Name  : Cross Site Scripting ( XSS ) Vulnerability Payload List -->
 <!--        Author : Ismail Tasdelen -->
